@@ -1060,7 +1060,6 @@
   "japgolly/scalacss": ["scalajs", "css"],
   "japgolly/scalajs-benchmark": [],
   "japgolly/scalajs-react": ["scalajs", "javascript"],
-  "japgolly/specs2": [],
   "japgolly/test-state": [],
   "japgolly/univeq": [],
   "japgolly/upickle": [],
